@@ -1,0 +1,19 @@
+.bandeau
+{
+    background-color: cyan;
+    height: 100px;
+    
+}
+.middle
+{
+    background-color: yellow;
+    height: 500px;
+    margin-top: 0px;
+    
+}
+.pieds_page 
+{
+    background-color: green;
+    height: 200px;
+   margin-right: 0px;
+}

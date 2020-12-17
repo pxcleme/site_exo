@@ -1,0 +1,32 @@
+.bandeau
+{
+    background-color: cyan;
+    height: 100px;
+}
+.middle
+{
+    background-color: yellow;
+    height: 500px;
+    margin-top: 0px;
+}
+.pieds_page 
+{
+    background-color: green;
+    height: 200px;
+   margin-right: 0px;
+}
+.gauche_haut
+{
+    background-color: pink;
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+.gauche_bas
+{
+    background-color: rgb(233, 20, 169);
+    height: 600px;
+    width: 200px;
+    float: left 20px;
+    top: 200px;
+}
